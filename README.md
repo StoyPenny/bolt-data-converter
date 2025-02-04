@@ -1,5 +1,8 @@
 # Bolt Data Converter
 
+![image](https://github.com/user-attachments/assets/2627414c-128c-4e05-adf7-9b6ced663456)
+
+
 Have you ever encountered a situation where Bolt.new chat failed to restore your project from an old chat, or when losing access to the terminal left you stuck? And now you can't export your project? Bolt Data Converter is a tool designed to help you recover your project from a broken chat with Bolt.new.
 
 With this tool, you can export your chat, then either paste the file contents or upload the JSON file directly. The application analyzes the chat history to automatically detect the latest artifact and extracts the necessary files and terminal commands. Finally, it generates a bash script that you can download and run on your local machine to recreate your project. Once your local files are restored, you have the option to re-import the project back into Bolt.new.
